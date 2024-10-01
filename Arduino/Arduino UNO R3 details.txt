@@ -1,0 +1,24 @@
+
+#ARDUINO MICROCONTROLLER INFORMATION:
+
+BOARD NAME:		ARDUINO UNO - R3(REVISION3)
+PROCESSOR:		ATMEGA328P (8-bit) --> RISC Architecture
+POWER REQ:		2.7V - 5.5V
+EEPROM:			1KB
+SRAM:			2KB
+FLASH:			32KB
+Total Digital Pins: 	14 (labeled from 0 to 13)
+PWM Digital Pins:	6 (pins 3, 5, 6, 9, 10, and 11)
+Total Analog Pins:	6 (labeled from A0 to A5)
+Power Jack:		7-12V
+Vin Pin: 		Input voltage to the board when using an external power supply.
+5V Pin:			Regulated power output (5V).
+3.3V Pin: 		Regulated power output (3.3V).
+GND Pins: 		Multiple ground pins for circuit connections.
+USB Port:		For programming the board and powering it via a USB connection.
+ICSP Header: 		For programming the microcontroller directly.
+Serial Ports: 		Two (TX/RX) pins (pins 0 and 1) for serial communication.
+NOTE:			The Arduino UNO features a barrel plug connector, that works great with a standard 9V battery.
+
+
+MORE DETAILED INFO:	https://docs.arduino.cc/hardware/uno-rev3/
