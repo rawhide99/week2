@@ -33,7 +33,7 @@ void loop()
     if(reading != button_state)
     {
       button_state = reading;
-      if(button_state = HIGH)
+      if(button_state == HIGH)
       {
         led_state = !led_state;
       }
